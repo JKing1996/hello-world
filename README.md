@@ -1,2 +1,4 @@
 # hello-world
-Just another repository 
+
+Hi, 
+I am Jordan King, junior Electrical Engineering Student at Prairie View A&M University. 
